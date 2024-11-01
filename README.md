@@ -12,14 +12,14 @@ Key Learnings from the project:
       -Virtual Functions and Abstract Classes
       -Inheritance
       -Operator Overloading
- 5-> I learned how path finding algorithms like BFS, DFS, IDDFS and IDA* can be used to solve real world problems related to AI. Many more problems in the field of AI can be solved using these algorithms.
- 6-> I learned about the concept of Heuristic Search Algorithms like A* and IDA* and how Pattern Databases can be created to provide that heuristic.
- 7-> Miscellaneous things I learned along the way:
-      a->How unordered_map<> works for custom objects
-      b->How to create custom hash functions
-      c->How bits can be used to store information
-      d->How to save and load files 
-      e->The basic idea of Black boxing, where we can give an input and expect a certain output from the Black Box (in our case, the Permutation Indexer)
+ 5- I learned how path finding algorithms like BFS, DFS, IDDFS and IDA* can be used to solve real world problems related to AI. Many more problems in the field of AI can be solved using these algorithms.
+ 6-I learned about the concept of Heuristic Search Algorithms like A* and IDA* and how Pattern Databases can be created to provide that heuristic.
+ 7- Miscellaneous things I learned along the way:
+      -How unordered_map<> works for custom objects
+      -How to create custom hash functions
+      -How bits can be used to store information
+      -How to save and load files 
+      -The basic idea of Black boxing, where we can give an input and expect a certain output from the Black Box (in our case, the Permutation Indexer)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 Rubik's-Cube-Solver- Using Korf's IDA* Algorithm
