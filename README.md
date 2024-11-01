@@ -27,7 +27,7 @@ Rubik's-Cube-Solver- Using Korf's IDA* Algorithm
 
 [Korf's Research Paper](https://cdn.aaai.org/AAAI/1997/AAAI97-109.pdf)
 
---> Modeled a virtual Rubik's Cube (3x3) in 3 different models/Classes using standard data-structures present in C++.
---> Achieved a solving time under 3 seconds for Rubik's Cube jumbled 8 times using BFS,DFS and IDDFS algorithm.
---> Implemented the Korf's IDA*  Algorithm, achieving a solving time of under 10 seconds for a Rubik's Cube jumbled 13 times.
+-- Modeled a virtual Rubik's Cube (3x3) in 3 different models/Classes using standard data-structures present in C++.
+-- Achieved a solving time under 3 seconds for Rubik's Cube jumbled 8 times using BFS,DFS and IDDFS algorithm.
+-- Implemented the Korf's IDA*  Algorithm, achieving a solving time of under 10 seconds for a Rubik's Cube jumbled 13 times.
 
