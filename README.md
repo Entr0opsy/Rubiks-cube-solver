@@ -1,12 +1,14 @@
+---------------------------------------------------------------------------------------------------------------------------------------
 Rubiks-Cube-Solver
 ---------------------------------------------------------------------------------------------------------------------------------------
+
 Key Learnings from the project:
 
  1- I learned how to take a real world object, like a Rubik’s Cube, and model it into something that the computer can understand.
  2- I learned how to take a larger problem, like the complete Rubik’s Cube solver, and break it down into smaller problems, using basic models and controllers, that is, Rubik’s cube representations and solvers.
  3- I learned how to break down multiple representations into classes and create base classes that can be further extended. Namely, creating Rubik’s Cube base class and Pattern Database Base class.
  4- I also learned many practical examples of Object-Oriented Programming in use, like the following:
-      a->Classes and Objects
+      a->Classes and Objects "/n"
       b->Virtual Functions and Abstract Classes
       c->Inheritance
       d->Operator Overloading
@@ -18,7 +20,7 @@ Key Learnings from the project:
       c->How bits can be used to store information
       d->How to save and load files 
       e->The basic idea of Black boxing, where we can give an input and expect a certain output from the Black Box (in our case, the Permutation Indexer)
-------------------------------------------------------------------------------------------------------------------------------------------
+
 
 Rubik's-Cube-Solver- Using Korf's IDA* Algorithm
 
