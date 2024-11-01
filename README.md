@@ -2,7 +2,7 @@
 Rubiks-Cube-Solver
 ---------------------------------------------------------------------------------------------------------------------------
 
-Key Learnings from the project:
+**Key Learnings from the project:**
 
  1. I learned how to take a real world object, like a Rubik’s Cube, and model it into something that the computer can understand.
  2. I learned how to take a larger problem, like the complete Rubik’s Cube solver, and break it down into smaller problems, using basic models and controllers, that is, Rubik’s cube representations and solvers.
