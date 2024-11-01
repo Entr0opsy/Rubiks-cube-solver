@@ -8,7 +8,7 @@ Rubiks-Cube-Solver
  2. I learned how to take a larger problem, like the complete Rubik’s Cube solver, and break it down into smaller problems, using basic models and controllers, that is, Rubik’s cube representations and solvers.
  3. I learned how to break down multiple representations into classes and create base classes that can be further extended. Namely, creating Rubik’s Cube base class and Pattern Database Base class.
  4. I also learned many practical examples of Object-Oriented Programming in use, like the following:
-  -Classes and Objects 
+   -Classes and Objects 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 Rubik's-Cube-Solver- Using Korf's IDA* Algorithm
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
